@@ -1,14 +1,16 @@
 ## Bem vindos ao meu perfil Github :wave:
 # Sobre mim: 
 
-Olá! Meu nome é Marcio Fernandes e eu sou fotógrafo e editor de imagem/video há 13 anos :smile:
-Recentemente, embarquei em uma nova jornada no fascinante mundo da tecnologia, com foco na área de dados. Este GitHub é onde vou compartilhar minha evolução nessa nova carreira, começando com projetos acadêmicos e, em breve, também com projetos profissionais :pray:
+Olá! Meu nome é Marcio Fernandes! 
+
+Sou Engenheiro de Dados e Analytics Engineer em atuação no programa Lighthouse da Indicium, onde participo de projetos com foco em arquitetura moderna de dados (Modern Data Stack). Tenho experiência prática no desenvolvimento de pipelines de dados utilizando ferramentas como Apache Airflow, Databricks, Snowflake, dbt, Docker e Meltano, com ênfase em processos ELT. Também atuo com Azure DevOps e Git para versionamento e automação de fluxos, além de utilizar Python e SQL como principais linguagens de programação.
+Minha formação multidisciplinar, aliada a uma sólida trajetória anterior em Publicidade e Propaganda, contribui para uma abordagem analítica e criativa na resolução de problemas e entrega de soluções orientadas a dados.
 
 Acompanhe minha trajetória e confira os projetos que estou desenvolvendo. Espero que gostem e fiquem à vontade para contribuir, colaborar ou simplesmente trocar ideias :wink:
 
 # O que estou aprendendo: 
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="80" height="80"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="80" height="80"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="80" height="80"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="80" height="80"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="80" height="80"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="80" height="80"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="80" height="80"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="80" height="80"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="80" height="80"/> <img loading="lazy" 
 
 ## Contatos:
 
